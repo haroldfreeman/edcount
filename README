@@ -79,4 +79,4 @@ See the CONTRIBUTING file.
 License
 -------
 
-GPLv3, see the COPYING file.
+GPLv3+, see the COPYING file.
