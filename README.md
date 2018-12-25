@@ -4,7 +4,7 @@ edcount
 [![Build Status](https://travis-ci.com/haroldfreeman/edcount.svg?branch=master)](https://travis-ci.com/haroldfreeman/edcount)
 
 <p align="center">
-    <img src="./demo/edcount_demo.svg">
+    <img src="https://raw.githubusercontent.com/haroldfreeman/edcount/master/demo/edcount_demo.svg">
 </p>
 
 Estimate distinct count of values from standard input. Provides a very fast
