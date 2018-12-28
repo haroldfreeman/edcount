@@ -1,2 +1,6 @@
 - GNU gettext for internationalization
 - Texinfo
+- Write HLL to file
+- Read HLL from file
+    - Allow multiple reads
+    - Merge
